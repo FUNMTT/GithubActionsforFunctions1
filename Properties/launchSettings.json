@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Function_Exercise": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7121",
+      "launchBrowser": false
+    }
+  }
+}
